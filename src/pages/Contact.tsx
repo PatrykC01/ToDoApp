@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="ContactPage">
       <h2>Strona Kontaktowa</h2>
       <p>
-        Masz pytania lub sugestie dotyczące aplikacji? Napisz do nas nas adres:
+        Masz pytania lub sugestie dotyczące aplikacji? Napisz do nas na adres:
       </p>
 
       <p>
