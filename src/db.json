@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "9561ef2d-f5e4-4c01-85e4-23e2b945614a",
+      "task": "Zrobić zadanie domowe",
+      "completed": true,
+      "isEditing": false,
+      "isDaily": false,
+      "color": "#ff5555"
+    },
+    {
+      "id": "1c02963a-f38e-416f-b11e-83edf3c05c6e",
+      "task": "Wyjść na spacer",
+      "completed": false,
+      "isEditing": false,
+      "isDaily": true,
+      "color": "#702caf"
+    },
+    {
+      "id": "a06a9cbb-57f9-4410-b0bb-b07a78a1df0b",
+      "task": "Zrobić zakupy",
+      "completed": false,
+      "isEditing": false,
+      "isDaily": false,
+      "color": "#558555"
+    }
+  ]
+}
